@@ -42,9 +42,9 @@
           "sizes": "512x512",
           "type": "image/png"
         }
-    ],
-    "theme_color": "rgba(214,214,214,0.98)",
-    "background_color": "#bcc5cc",
+    ],    
+    "start_url": "/index.html",
     "display": "standalone",
-    "start_url": "/index.html"
+    "background_color": "#ddd",
+    "theme_color": "#333"
   }
