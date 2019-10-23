@@ -2,9 +2,9 @@
 
 /*-----------------------------------------------------------------------------------
 
-    Template Name: KHAIAM Food Delivery Html5 Template
+    Template Name: KHAIAM Application
     Template URI: https://themeforest.net/user/hastech
-    Description: KHAIAM Food Delivery Html5 Template
+    Description: KHAIAM Application
     Author: Hastech
     Author URI: https://themeforest.net/user/hastech
     Version: 1.0
